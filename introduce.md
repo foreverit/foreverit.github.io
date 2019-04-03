@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      소개
+title:      
 date:       2019-04-03
 summary:    포에버잇 소개
 categories:
