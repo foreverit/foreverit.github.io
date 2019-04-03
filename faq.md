@@ -5,6 +5,7 @@ date:       2019-04-03
 summary:    포에버잇의 자주 묻는 질문을 정리했습니다.
 categories:
 ---
+# FAQ
 
 ## 기록
 
