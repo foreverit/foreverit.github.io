@@ -47,7 +47,7 @@ categories:
 
 ### 실수로 더 많은 금액을 송금했습니다.
 
-[다음 링크](https://goo.gl/HrKH6N){:target="_blank"}의 '내용'에 해당 메시지 링크를 알려주시며 저희가 확인 후 처리해 드리도록 하겠습니다. 다만, 암호화폐 특성상 송금 수수료를 제외한 금액만 환불 처리가 진행됩니다.
+<a href="https://goo.gl/HrKH6N" target="_blank">[다음 링크]</a>의 '내용'에 해당 메시지 링크를 알려주시며 저희가 확인 후 처리해 드리도록 하겠습니다. 다만, 암호화폐 특성상 송금 수수료를 제외한 금액만 환불 처리가 진행됩니다.
 
 ### 암호화폐로 결제 시 수수료는 별도인가요?
 
@@ -77,11 +77,4 @@ categories:
 
 * Bitcoin Wallet: MyCelium
 
-* 추가 지원 환경 요청은 [다음 링크](https://goo.gl/HrKH6N){:target="_blank"}로 .
-
-
-
-
-
-
-
+* 추가 지원 환경 요청은 <a href="https://goo.gl/HrKH6N" target="_blank">[다음 링크]</a>에서 가능합니다.
