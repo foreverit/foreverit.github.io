@@ -10,13 +10,10 @@ categories:
 
 포에버잇\(<a href="http://www.theforever.it" target="_blank">www.theforever.it</a>\)은 블록체인에 다양한 형태의 기록을 <b>영원히</b> 남길 수 있는 서비스입니다.
 
-블록체인에 기록이 되면 누구도 변경할 수가 없습니다. 또한, 전 세계의 수많은 노드에 즉시 복제되어 변조가 불가능하게 됩니다. 따라서 포에버잇 서비스와 별개로 여러분들이 작성한 메시지는 영원히 블록체인에 그대로 남겨집니다.
+블록체인 네트워크에 한번 기록이 되면 어느 누구도 변경할 수가 없습니다. 또한, 전 세계의 수많은 노드에 즉시 복제되어 안정적으로 그 기록은 보존됩니다. 따라서 먼 미래에 포에버잇 서비스 존재 여부와 별개로 여러분들이 작성한 메시지는 영원히 블록체인에 그대로 남겨집니다.
 
-인간의 본능처럼 포에버잇은 어떤 흔적을 남기거나 혹은 무언가 외치고 싶은 통로가 될 수 있습니다.
-
-백 년, 천 년이 지나도 인터넷이 존재하는 한 포에버잇을 통해 남긴 메시지는 어딘가에 살아있습니다. 인류의 흔적이 담긴 보이저호의 <a href="https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%B4%EC%A0%80_%EA%B8%88%EC%A0%9C_%EC%9D%8C%EB%B0%98" target="_blank">금판 레코드</a>처럼...
-
-![voyager golden record](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LbOM2vFK1LFnS7KDu5H%2F-LbYGJgZFKxa73akN1uh%2F-LbYGRu94ixamo6bV-Np%2Fgolden_record.jpg?alt=media&token=a036b60c-ddbc-409c-a982-b6d9078ec274)
+남산타워의 사랑의 자물쇠에 남기고 싶은 메시지를 이제는 블록체인에도 아로새길 수 있습니다. 그것도 영원히…
+![남산 N타워 자물쇠 (출처:www.befreetour.com](https://cdn-images-1.medium.com/max/2600/1*x6kErUD65sMcjh0x7HgqYQ.png)
 
 * 사랑하는 연인에게 고백하세요. 연인들만의 속삭임을 남겨 보세요.
 * 가족/연인/친구들 간의 추억을 기록하세요.
